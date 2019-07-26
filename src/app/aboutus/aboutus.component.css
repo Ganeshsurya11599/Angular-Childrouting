@@ -1,0 +1,8 @@
+.container-fluid{
+    background-image: url(/assets/contain.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color:aqua;
+}

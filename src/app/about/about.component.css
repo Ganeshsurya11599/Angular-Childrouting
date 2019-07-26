@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: darkgrey;
+}
+footer{
+    background-color: rgba(11, 172, 83, 0.5);
+    padding:0;
+    font-size: 70px;
+    margin: 0;
+}
+.fa-facebook-f{
+    color:dodgerblue;
+}
+.fa-instagram{
+    color: royalblue;
+    margin-left: 20px;
+}
+.fa-chrome{
+    color:rebeccapurple;
+    margin-left: 20px;
+}
+.fa-youtube{
+    color: rgb(179, 29, 29);
+    margin-left: 20px;
+
+}
+button{
+    background-color: black;
+    padding: 8px;
+    border:0;
+    height: 50px;
+    width: 100px;
+    color:white;
+    border-radius: 10px;
+}
